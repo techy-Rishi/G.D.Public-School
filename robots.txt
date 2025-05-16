@@ -1,3 +1,3 @@
 User-agent: *
 Allow: /
-Sitemap: https://techy-Rishi.github.io/G.D.Public-School.github.io/sitemap.xml
+Sitemap: https://techy-Rishi.github.io/G.D.Public-School/sitemap.xml
